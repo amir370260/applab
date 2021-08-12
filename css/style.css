@@ -164,6 +164,11 @@ clint logo start
 .clint-logo .owl-nav {
     display: none;
 }
+.owl-stage{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
 
 
 /* ***************
