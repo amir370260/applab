@@ -97,7 +97,9 @@ banner section start
     margin-right: 80px;
     margin-bottom: 30px;
 }
-
+.banner-btn{
+    margin-top: 40px;
+}
 .banner-btn .h-btn {
     margin-left: 0;
     margin-right: 30px;
