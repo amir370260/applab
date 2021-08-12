@@ -766,9 +766,9 @@ footer css
 }
 .f-social ul li a i{
     color: #273043;
-    font-size: 24px;
-    margin-right: 18px;
-    margin-top: 10px;
+    font-size: 23px;
+    margin-right: 19px;
+    margin-top: 8px;
 }
 .f-social ul li a i:hover{
     color: #feaa25;
@@ -778,7 +778,7 @@ footer css
     color: #feaa25 !important;
 }
 .fa-slack-hash{
-    font-size: 28px !important;
+    font-size: 27px !important;
     color: #fff !important;
 }
 .f-t h6{
